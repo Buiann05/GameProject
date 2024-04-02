@@ -34,8 +34,8 @@
 		</Compiler>
 		<Unit filename="BaseFunction.cpp" />
 		<Unit filename="BaseFunction.h" />
-		<Unit filename="LoadImage.cpp" />
-		<Unit filename="LoadImage.h" />
+		<Unit filename="LoadPicture.cpp" />
+		<Unit filename="LoadPicture.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
