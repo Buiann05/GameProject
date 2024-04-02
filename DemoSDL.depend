@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1712032562 source:d:\an\demosdl\main.cpp
+
+1709707983 source:d:\an\demosdl\untitled2.cpp
+	<SDL.h>
+	<iostream>
+
+1712024941 source:d:\an\demosdl\game.cpp
+	<vector>
+	<cassert>
+	<cstdlib>
+	<iostream>
+	"Game.h"
+
+1712024602 d:\an\demosdl\game.h
+	"Snake.h"
+	"Position.h"
+
+1712024941 d:\an\demosdl\snake.h
+	<queue>
+	<vector>
+	"Position.h"
+
+1712024941 d:\an\demosdl\position.h
+
+1712024941 d:\an\demosdl\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1712024941 d:\an\demosdl\ui.h
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_Utils.h"
+
+1712024941 source:d:\an\demosdl\snake.cpp
+	"Snake.h"
+	"Game.h"
+	<iostream>
+
+1712032562 source:d:\an\demosdl\basefunction.cpp
+	"BaseFunction.h"
+
+1712032872 d:\an\demosdl\basefunction.h
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+
