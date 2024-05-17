@@ -47,3 +47,69 @@
 	<SDL.h>
 	<SDL_image.h>
 
+1715875485 source:d:\an\gameproject\basefunction.cpp
+	"BaseFunction.h"
+
+1715922299 d:\an\gameproject\basefunction.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+
+1715962921 source:d:\an\gameproject\main.cpp
+	"LoadPicture.h"
+	"BaseFunction.h"
+	"Time.h"
+	"Dangerous.h"
+	"TextObject.h"
+	"PlayPower.h"
+
+1715827556 source:d:\an\gameproject\loadpicture.cpp
+	"LoadPicture.h"
+
+1715876035 d:\an\gameproject\loadpicture.h
+	"BaseFunction.h"
+
+1715180885 d:\an\gameproject\gamemap.h
+
+1715180886 source:d:\an\gameproject\gamemap.cpp
+
+1715185900 source:d:\an\gameproject\player.cpp
+
+1715185937 d:\an\gameproject\player.h
+
+1715235781 source:d:\an\gameproject\time.cpp
+	"Time.h"
+	"BaseFunction.h"
+
+1715235489 d:\an\gameproject\time.h
+
+1715783897 source:d:\an\gameproject\dangerous.cpp
+	"Dangerous.h"
+
+1715783897 d:\an\gameproject\dangerous.h
+	"BaseFunction.h"
+	"LoadPicture.h"
+
+1715962921 source:d:\an\gameproject\textobject.cpp
+	"TextObject.h"
+
+1715963008 d:\an\gameproject\textobject.h
+	"BaseFunction.h"
+
+1715819794 source:d:\an\gameproject\playpower.cpp
+	"PlayPower.h"
+
+1715796479 d:\an\gameproject\playpower.h
+	"BaseFunction.h"
+	"LoadPicture.h"
+
+1715869924 d:\an\gameproject\explosionobject.h
+	"BaseFunction.h"
+	"LoadPicture.h"
+

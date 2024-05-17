@@ -34,8 +34,16 @@
 		</Compiler>
 		<Unit filename="BaseFunction.cpp" />
 		<Unit filename="BaseFunction.h" />
+		<Unit filename="Dangerous.cpp" />
+		<Unit filename="Dangerous.h" />
 		<Unit filename="LoadPicture.cpp" />
 		<Unit filename="LoadPicture.h" />
+		<Unit filename="PlayPower.cpp" />
+		<Unit filename="PlayPower.h" />
+		<Unit filename="TextObject.cpp" />
+		<Unit filename="TextObject.h" />
+		<Unit filename="Time.cpp" />
+		<Unit filename="Time.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
